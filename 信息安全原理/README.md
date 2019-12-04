@@ -11,7 +11,7 @@ BTW 我们当时上课回答问题很有趣，经常笑爆。
 我们当时一共是4次作业。   
 HW1. Password Cracking  
 HW2. Large number arithmetic  
-HW3. Public Key & Privaate Key  
+HW3. Public Key & Private Key  
 HW4. Using Wireshark  
 可以参考之前我做的: https://github.com/laylalaisy/ZJU_2_2_Information-Security  
 不过不要直接copy+可能有bug存在
